@@ -14,7 +14,7 @@
 
 ---
 
-<img align='right' src="images/hyperactive-hitech-logo.png" width="300"/>
+<img align='right' src="https://github.com/HyperActive-HiTech/.github/blob/main/profile/images/hyperactive-hitech-logo.png" width="300"/>
 
 ## About Us
 
